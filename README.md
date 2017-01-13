@@ -1,6 +1,8 @@
 # CampusCafe
 
 In this project, we implement multi-thread, serialization, MVC observer pattern, txt files. 
+Vedio: https://www.youtube.com/watch?v=4v0Y-k9J8oM&t=2s
+
 
 1. Preset data. Preset data of user and card are saved in the folder of database.
  - cardCollection.txt  It is used to save the preset account numbers, passwords and account extensions. (For single user, the default extension is 0. For family users, they share the same account and password, with different extension numbers.)  
