@@ -3,9 +3,9 @@
 In this project, we implement multi-thread, serialization, MVC observer pattern, txt files. 
 
 - Preset data. Preset data of user and card are saved in the folder of database.
-a) cardCollection.txt
-It is used to save the preset account numbers, passwords and account extensions. (For single user, the default extension is 0. For family users, they share the same account and password, with different extension numbers.)  
-b) .ser files, 
+-  cardCollection.txt
+It is used to save the preset account numbers, passwords and account extensions. (For single user, the default extension is 0. For family users, they share the same account and password, with different extension numbers.)  
+-  .ser files, 
 They are used to save the profile information of user and card.
 
 - This project implemented multi-Thread. Running CampusSmartCafe.jar(under OOPProject folder) will open two GUI at the same time. To test single user case, only need to login in one GUI. To test family user case, login in both GUI, using card number 1002, password 0000, extension 0 and 1 separately.   
