@@ -1,7 +1,7 @@
 # CampusCafe
 This is a Java application simulates how Cafes work on Campus. In this project, we implement multi-thread, serialization, MVC observer pattern, txt files. 
 
-Vedio: https://www.youtube.com/watch?v=4v0Y-k9J8oM&t=2s
+video: https://www.youtube.com/watch?v=4v0Y-k9J8oM&t=2s
 
 
 1. Preset data. Preset data of user and card are saved in the folder of database.
